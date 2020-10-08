@@ -95,8 +95,8 @@ img {
 /*page 2  services */
 .our-services {
   background-color: rgb(59, 62, 63);
-  background-repeat: no-repeat;
-  background-image: center;
+  background-repeat: no-repeat center center;
+
   background-size: cover;
   font-family: cursive;
   padding-top: 15px;
