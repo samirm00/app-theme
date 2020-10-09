@@ -193,18 +193,19 @@
 ### Repo
 
 what branch(es) did you work on?
-1-home
-2-services
-3-contactus
-style
-master
+
+- 1-home
+- 2-services
+- 3-contactus
+- style
+- master
 
 ### HTML
 
 what did you change in the HTML and why?
 
-add , google fonts , add images instead of icons , change the column width for head and show-case,
-chaange . 
+add , google fonts , add images instead of icons , change the column width for the html files  " head and show-case,
+changed . 
 why?
 
  I find it more flexible this way and I wanted to changed it accodring to my web site  
@@ -216,7 +217,7 @@ what did you change in the CSS and why?
 padding , border , images , background , color , font , classes instead of ids 
 why?
 
-more flexable and usable more than once .
+more flexable and usable more than once(classes) .
 
 
 
