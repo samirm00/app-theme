@@ -6,7 +6,9 @@ using HTML , CSS and CSS flexboxgrid , flexboxgrid is efficient and easy tools u
 
 This project is useful for anyone who is eager to learn HTML,CSS and CSS flexboxgrid and also for the begginers in web development .
 
- Index.html file  
+### The project contains 
+
+- Index.html file  
 
 - Services.html 
 
