@@ -35,7 +35,7 @@
 ## 2.Create a project board :
 
 - create a project board `app-theme-project-board`.
-- Add an extra column to the board `ready for review`.
+- add an extra column to the board `ready for review`.
 
 
 ## 3.Create a branch `1-Home` :
