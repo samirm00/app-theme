@@ -217,7 +217,7 @@ what did you change in the CSS and why?
 padding , border , images , background , color , font , classes instead of ids 
 why?
 
-more flexable and usable more than once .
+more flexable and usable more than once(classes) .
 
 
 
