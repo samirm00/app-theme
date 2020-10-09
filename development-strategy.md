@@ -188,7 +188,7 @@
 - push to GitHub
 - merge with master
   
-## 7.Pull and push master :
+## 7.Pull and push master
 
 ### Repo
 
