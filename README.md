@@ -12,7 +12,7 @@ This project is useful for anyone who is eager to learn HTML,CSS and CSS flexbox
 
 - Services.html 
 
-- AboutUs.html 
+- Contactus.html 
 
 - Style.css file .
 
