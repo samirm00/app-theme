@@ -30,19 +30,19 @@
 - Generate a repo from Template (w3-validation-template ) and rename it `app-theme`)
 - write initial, basic README.
 - turn on GitHub Pages.
-- clone the repo to my Pc.
+- clone the repo to my PC.
 
 ## 2.Create a project board :
 
-- Create a project board `app-theme-project-board`.
+- create a project board `app-theme-project-board`.
 - Add an extra column to the board `ready for review`.
 
 
 ## 3.Create a branch `1-Home` :
 
-- Create a branch by the name `1-Home` 
-- Checkout `1-Home` 
-- Add code to index HTML file
+- create a branch by the name `1-Home` 
+- checkout `1-Home` 
+- add code to index HTML file
 - `index.html`
    - add the `head` tage.
       - `head`
@@ -183,9 +183,9 @@
     - color, width, margin , background color 
   - `p` color , font and padding 
     - width, margin, background-color
-- Add images 
-- Add it to the staging area and commit it 
-- Push to GitHub
+- add images 
+- add it to the staging area and commit it 
+- push to GitHub
 - merge with master
   
 
@@ -202,7 +202,7 @@ master
 
 what did you change in the HTML and why?
 
-Add , google fonts , add images instead of icons , change the column width for head and show-case,
+add , google fonts , add images instead of icons , change the column width for head and show-case,
 chaange . 
 why?
 
