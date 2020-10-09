@@ -17,7 +17,11 @@
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 
+<<<<<<< HEAD
 ![wireframe](../New%20folder/Wireframe.png)
+=======
+![wireframe](https://github.com/samirm00/app-theme/blob/master/Wireframe.png)
+>>>>>>> 9b63f0e4b764b87af5058a50ea3349bd471d09f1
 
 ## 0- understanding the project:
 
