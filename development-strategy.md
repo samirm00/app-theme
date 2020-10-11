@@ -20,6 +20,8 @@
 
 ![wireframe](Wireframe.png)
 
+---
+
 #### The user can see `app-theme` repository with short introduction.
 
 ## 1- Create a repo and clone it :
@@ -30,12 +32,15 @@
 - open the folder in the VS code. copy and paste the strategy plan .
 - turn on GitHub Pages.
 
+---
 #### The user can see the  way the work has been orginaized using project board 
 
 ## 2.Create a project board :
 
 - create a project board `app-theme-project-board`.- 
 - add an extra column to the board `ready for review`.
+
+---
 
 #### The user can see the index file   .
 
@@ -52,6 +57,8 @@
 - Push to GitHub
 - merge with master
 
+---
+
 #### The user can see the services file  .
 
 #### As a vistor I want to know  the different offers and services 
@@ -66,6 +73,8 @@
 - Add it to the staging area and commit it 
 - Push to GitHub
 - merge with master
+
+---
 
 #### The user can see the conatc file    .
 
@@ -83,6 +92,8 @@
 - Push to GitHub
 - merge with master
 
+---
+
 #### the user can see the different style file 
 #### The file has been developed on `style` branch
 
@@ -96,9 +107,13 @@
 - push to GitHub
 - merge with master
 
+---
+
 #### Final touch to  Make sure the work is done 
 
 ## 7.Pull and push master
+
+---
 
 ### Repo
 
