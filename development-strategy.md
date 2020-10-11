@@ -109,7 +109,7 @@
 
 ---
 
-#### Final touch to  Make sure the work is done 
+#### Make sure the work is done 
 
 ## 7.Pull and push master
 
@@ -125,6 +125,8 @@ what branch(es) did you work on?
 - style
 - master
 
+---
+
 ### HTML
 
 what did you change in the HTML and why?
@@ -134,6 +136,8 @@ changed .
 why?
 
  I find it more flexible this way and I wanted to changed it accodring to my website 
+ 
+ ---
 
 ### CSS
 
@@ -144,7 +148,7 @@ why?
 
 more flexable and usable more than once(classes) .
 
-
+---
 
 ## Finishing Touches
 
