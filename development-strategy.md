@@ -37,7 +37,7 @@
 - create a project board `app-theme-project-board`.- 
 - add an extra column to the board `ready for review`.
 
-#### The user can see introduction  about the company  .
+#### The user can see the index file   .
 
 #### As a vistor I want to know about the company  
 
@@ -52,7 +52,7 @@
 - Push to GitHub
 - merge with master
 
-#### The user can see the different services offered by the company  .
+#### The user can see the services file  .
 
 #### As a vistor I want to know  the different offers and services 
 
@@ -67,7 +67,7 @@
 - Push to GitHub
 - merge with master
 
-#### The user can see the different ways to contact the company   .
+#### The user can see the conatc file    .
 
 #### As a vistor I want to know How can I contact the comapny  
 
@@ -83,7 +83,7 @@
 - Push to GitHub
 - merge with master
 
-#### the user can see the different styles applied on html files 
+#### the user can see the different style file 
 #### The file has been developed on `style` branch
 
 ## 6.Create a branch `style` :
