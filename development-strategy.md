@@ -5,11 +5,11 @@
 <!--write a short description of your project:
 - who would want to use it?
 - why would they want to use it? -->
-##### This project is a simple website to introduce the SM electronics company services to the world.
+#### This project is a simple website to introduce the SM electronics company services to the world.
 
-##### Almost everyone will be interested about using this website , professional and non-professional.
+#### Almost everyone will be interested about using this website , professional and non-professional.
 
-##### They want to use it to buy , repair or sell different electronic device.
+#### They want to use it to buy , repair or sell different electronic device.
  
 
 ## Wireframe
@@ -24,13 +24,13 @@
 
 ## 1- Create a repo and clone it :
 
-- Generate a repo from Template (w3-validation-template ) and rename it `app-theme`)
+- Generate a repo from Template (w3-validation-template ) and rename it `app-theme`
 - clone the repo .
 - write initial, basic README.
 - open the folder in the VS code. copy and paste the strategy plan .
 - turn on GitHub Pages.
 
-#### The user can see the  way the work has been orginaized 
+#### The user can see the  way the work has been orginaized using project board 
 
 ## 2.Create a project board :
 
@@ -83,7 +83,7 @@
 - Push to GitHub
 - merge with master
 
-
+#### the user can see the different styles applied on html files 
 #### The file has been developed on `style` branch
 
 ## 6.Create a branch `style` :
