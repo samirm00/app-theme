@@ -5,11 +5,11 @@
 <!--write a short description of your project:
 - who would want to use it?
 - why would they want to use it? -->
+##### This project is a simple website to introduce the SM electronics company services to the world.
 
-- This project is a simple website, build using HTML ,CSS and CSS flexbox grid .
-  Most of the work is done using CSS flexbox grid as a powerful tool uses to organize  items inside a container more efficiently . CSS flexbox grid is an easy tool to orginze different items more efficintly and easily.
+##### Almost everyone will be interested about using this website , professional and non-professional.
 
-- This project is useful for beginners in web development , who are learning HTML, CSS and CSS flexbox grid or anyone who is eager to learn coding and web development.
+##### They want to use it to buy , repair or sell different electronic device.
  
 
 ## Wireframe
@@ -20,174 +20,84 @@
 
 ![wireframe](Wireframe.png)
 
-## 0- Understanding the project:
-
-- watching the tutorial `app-theme from Traversy Media` carefully .
-- reading HYF class materals and homework.
+#### The user can see `app-theme` repository with short introduction.
 
 ## 1- Create a repo and clone it :
 
 - Generate a repo from Template (w3-validation-template ) and rename it `app-theme`)
+- clone the repo .
 - write initial, basic README.
+- open the folder in the VS code. copy and paste the strategy plan .
 - turn on GitHub Pages.
-- clone the repo to my PC.
+
+#### The user can see the  way the work has been orginaized 
 
 ## 2.Create a project board :
 
-- create a project board `app-theme-project-board`.
+- create a project board `app-theme-project-board`.- 
 - add an extra column to the board `ready for review`.
 
+#### The user can see introduction  about the company  .
+
+#### As a vistor I want to know about the company  
+
+#### The file has been developed on `1-Home` branch
 
 ## 3.Create a branch `1-Home` :
 
 - create a branch by the name `1-Home` 
 - checkout `1-Home` 
-- add code to index HTML file
-- `index.html`
-   - add the `head` tage.
-      - `head`
-        - the title `SM for electronic services`
-        - meta tags ( viewport ,  utf-8 , and description )
-        - links to google fonts.
-        - links to icon ( specific icon shows two laptop)
-        - link to google fonts 
-        - link to flexboxgrid.css
-        - link to style.csS
-        
-    - add the `body` tage .
-      - `body`
-        - add the `header`
-        - create a container , `div` for the the container , row and column 
-        - add the header `h1`
-        - add `div` for coulmn 
-        - add navigation bar.
-        - add `section` show-case , add `div` for container , row and colmun 
-        - add `h2` and `p`
-        - add `section` with `div` for container , row and columns 
-        - add `h2` and `p` 
-        - add `div` for each images 
-        - add `div` for row and column 
-        - add `div` for each `h2` and `p`
-        - add `section` add `div` for conatiner , row and cloumn 
-        - add `div` for each image 
-        - add `div` for coulmn , the `div` for each `h5`
-        - add `footer`  then add `div` for container , row and column
-        - add `p`
+- add the introduction , different services , contact information of the company to `index.html`
 - Add it to the staging area and commit it 
 - Push to GitHub
 - merge with master
+
+#### The user can see the different services offered by the company  .
+
+#### As a vistor I want to know  the different offers and services 
+
+#### The file has been developed on `2-services` branch
 
 ## 4.Create a branch `2-services`:
 
 - Create a branch by the name `2-services` 
 - Checkout `2-services` 
-- Add code to services HTML file
-  - add the `head` tage.
-     - add the `head` tage.
-      - `head`
-        - the title `SM for electronic services`
-        - meta tags ( viewport ,  utf-8 , and description )
-        - links to google fonts.
-        - links to icon ( specific icon shows two laptop)
-        - link to google fonts 
-        - link to flexboxgrid.css
-        - link to style.csS
-        
-    - add the `body` tage .
-      - `body`
-        - add the `header`
-        - create a container , `div` for the the container , row and column 
-        - add the header `h1`
-        - add `div` for coulmn 
-        - add navigation bar.
-        - add `section` show-case , add `div` for container , row and colmun 
-        - add `h2` and `p`
-        - add `section` with `div` for container , row and columns 
-        - add `h2` and `p` 
-        - add `div` for each `h2` and `p`
-        - add `section` add `div` for conatiner , row and cloumn 
-        - add `div` for each image 
-        - add `div` for coulmn , the `div` for each `h5`
-        - add `footer`  then add `div` for container , row and column
-        - add `p`
-- merge the `2-services` with the master branch.
+- Add the diiferent dervices in details to `services.html`
 - Add it to the staging area and commit it 
 - Push to GitHub
 - merge with master
+
+#### The user can see the different ways to contact the company   .
+
+#### As a vistor I want to know How can I contact the comapny  
+
+#### The file has been developed on `3-contactus` branch
 
 ## 5.Create a branch `3-contactus`:
 
 - Create a branch by the name `3-contactus` 
 - Checkout `3-contactus` 
 - Add code to contactus HTML file
-- `aboutUs`
-  - add the `head` tage.
-    - `head`
-        - the title `SM for electronic services`
-        - meta tags ( viewport ,  utf-8 , and description )
-        - links to google fonts.
-        - links to icon ( specific icon shows two laptop)
-        - link to google fonts 
-        - link to flexboxgrid.css
-        - link to style.csS
-        
-    - add the `body` tage .
-      - `body`
-        - add the `header`
-        - create a container , `div` for the the container , row and column 
-        - add the header `h1`
-        - add `div` for coulmn 
-        - add navigation bar.
-        - add `section` show-case , add `div` for container , row and colmun 
-        - add `h2` and `p`
-        - add `section` with `div` for container , row and columns 
-        - add `h4`  
-        - add `from`
-        - add `div` for each input  and button
-        - add `section` add `div` for conatiner , row and cloumn 
-        - add `div` for each image 
-        - add `div` for coulmn , the `div` for each `h5`
-        - add `footer`  then add `div` for container , row and column
-        - add `p`
+- add the different way to conatct the company to `conatctus.html`
 - Add it to the staging area  and commit it 
 - Push to GitHub
 - merge with master
+
+
+#### The file has been developed on `style` branch
 
 ## 6.Create a branch `style` :
 
 - Create a branch by the name `style` 
 - Checkout `style` 
-- Add code to style CSS file
-- - `style.css`
-
-  - `*`, 
-    - make padding and margin zero.
-  - `body`
-
-    - add padding and margin zero.
-  - `img`
-    - width 20% 
-  - `container`
-    - margin auto
-  - `main-header`
-    - add text-align , color,background-color,margin, padding , border
-  - `class"main-nav"`
-    - add text-align , font-family , padding, font size 
-  - `show-case`
-    - add width , background images , border 
-  - `features`
-    - background ,font-family , padding, border
-  - `contact`
-    - background color  , margin, color ,padding
-  - `form input class `
-    - color, width, margin , background color 
-  - `p` color , font and padding 
-    - width, margin, background-color
-- add images 
+- Add background , different fonts , padding and marrgin to my html files using classes and html tags inside `style.css`
+- add images folder to the `style` branch
 - add it to the staging area and commit it 
 - push to GitHub
 - merge with master
-  
+
+#### Final touch to  Make sure the work is done 
+
 ## 7.Pull and push master
 
 ### Repo
@@ -208,7 +118,7 @@ add , google fonts , add images instead of icons , change the column width for t
 changed . 
 why?
 
- I find it more flexible this way and I wanted to changed it accodring to my web site  
+ I find it more flexible this way and I wanted to changed it accodring to my website 
 
 ### CSS
 
